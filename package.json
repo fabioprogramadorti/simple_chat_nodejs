@@ -1,0 +1,20 @@
+{
+  "name": "simple_chat_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Santos - fabioprogramadorti@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-validator": "2.20.8",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "description": "simple chat in nodejs"
+}
