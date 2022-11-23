@@ -13,7 +13,7 @@
     "ejs": "^3.0.2",
     "express": "^4.17.1",
     "express-validator": "2.20.8",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {},
   "description": "simple chat in nodejs"
